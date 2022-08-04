@@ -1,0 +1,20 @@
+How many HTTP GET requests are in pcap?
+{5}
+
+What is the server operating system?
+{freebsd}
+
+What is the name and version of the web server software?
+Apache/2.2.15
+
+What is the version of OpenSSL running on the server?
+OpenSSL/0.9.8n
+
+What is the client's user-agent information?
+{Lynx/2.8.7rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8n}
+
+What is the username used for Basic Authentication?
+{webadmin}
+
+What is the user password used for Basic Authentication?
+{W3b4Dm1n}

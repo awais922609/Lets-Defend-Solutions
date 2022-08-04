@@ -1,0 +1,11 @@
+What is the IP address scanning the environment?
+{10.42.42.253}
+
+What is the IP address found as a result of the scan?
+{10.42.42.50}
+
+What is the MAC address of the Apple system it finds?
+{00:16:cb:92:6e:dc}
+
+What is the IP address of the detected Windows system?
+{10.42.42.50}

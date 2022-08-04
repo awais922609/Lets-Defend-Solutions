@@ -1,0 +1,24 @@
+Looking through the alerts in Brim, what is the vulnerability name and its corresponding CVE?
+
+{PrintNightmare, CVE-2021-34527}
+
+{10.10.10.2}
+
+{notsostealthy.dll}
+
+{fa1ee835869ea97559359568043aea3a52508b360cfc5195a3d7fbb60cef55a5}
+{override@shields.mertz.net}
+
+{BELLYBEAR\Jesse.harmon}
+
+{WIN-FLO4EU2VMSM}
+
+{HACKER}
+
+{4720, 2021-08-16 19:31:46Z}
+
+{rundll32.exe, 443}
+
+{windows/x64/meterpreter/reverse_https}
+
+{this-is-really-a-nightmare.txt}

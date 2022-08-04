@@ -1,0 +1,12 @@
+Which programming language is the backdoor written in?
+{go}
+Who is the author of backdoor?
+{fireeye}
+What is command&control IP address?
+{161.35.41.241}
+Which tool triggered the reverse shell?
+{impacket}
+Which user's password leaked except Administrator user?
+{anderson}
+What is the MD5 of backdoor?
+{f59095f0ab15f26a1ead7eed8cdb4902}

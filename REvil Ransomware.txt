@@ -1,0 +1,10 @@
+{windows 7 professional 7601 service pack 1}
+{securityninja}
+{C:\Users\SecurityNinja\Downloads\bad day.exe}
+{94d087166651c0020a9e6cc2fdacdc0c}
+{993ixjlb}
+{http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion/4FE49B3286F992CB}
+{http://decoder.re/4FE49B3286F992CB}
+{netsh advfirewall firewall set rule group='network discovery' new enable=yes}
+{t1486}
+{revil}

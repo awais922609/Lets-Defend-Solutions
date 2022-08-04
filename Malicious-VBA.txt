@@ -1,0 +1,13 @@
+The document initiates the download of a payload after the execution, can you tell what website is hosting it?
+{https://tinyurl.com/g2z2gh6f}
+What is the filename of the payload (include the extension)?
+{dropped.exe}
+
+What method is it using to establish an HTTP connection between files on the malicious web server?
+{MSXML2.ServerXMLHTTP}
+What user-agent string is it using?
+{Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)}
+What object does the attacker use to be able to read or write text and binary files?
+{ADODB.Stream}
+What is the object the attacker uses for WMI execution? Possibly they are using this to hide the suspicious application running in the background.
+{winmgmts:\\.\root\cimv2:Win32_Process}

@@ -1,0 +1,18 @@
+{conti}
+{fealc}
+{https://contirecovery.best}
+{C:\Users\Administrator\Documents\cmd.exe}
+{C:\Windows\system32\wbem\unsecapp.exe,1 1}
+{290C7DFB01E50CEA9E19DA81A781AF2C}
+{net user /add securityninja hardToHack123$,net localgroup administrators securityninja /add,net localgroup "Remote Desktop Users" "securityninja" /add}
+{C:\Windows\System32\wbem\unsecapp.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe}
+{C:\Windows\System32\lsass.exe}
+{C:\Windows\System32\WBEM\UNSECAPP.EXE,C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\POWERSHELL.EXE}
+12
+{C:\INETPUB\LOGS\LOGFILES\W3SVC1\U_EX210908.LOG}
+141
+{cve-2021-31207,cve-2021-34523,cve-2021-34473}
+15
+{monitor@labsack.mertz.marquardt.co}
+13
+{C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\httpproxy\owa\auth\i3gfPctK1c2x.aspx,NT AUTHORITY\SYSTEM}

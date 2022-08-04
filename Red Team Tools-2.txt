@@ -1,0 +1,15 @@
+What is command&control IP address?
+
+{221.181.185.200}
+Can you find out which country the attack was from?
+{china}
+Can you find the name of the tool the attacker used to gather information about the system?
+{wmispy}
+What is the name of the query language used to collect information about the system?
+{wql}
+We detected that a new user has been created on the device. Can you find this user's password?
+{h4rd2cr4ck!.}
+Can you find the name of the tool used for privilege escalation?
+{sharpzerologon}
+Can you write the CVE code (CVE-XXXX-XXXX) of the vulnerability used during privilege escalation?
+{cve-2020-1472}

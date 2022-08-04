@@ -1,0 +1,10 @@
+Which automated scan tool did attacker use for web reconnansiance?
+{Nikto}
+
+After web reconnansiance activity, which technique did attacker use for directory listing discovery?
+{directory brute force}
+
+What is the first payload for 4rd attack?
+{whoami}
+
+{%27net%20user%20hacker%20asd123!!%20/add%27}

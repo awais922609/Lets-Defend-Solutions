@@ -1,0 +1,8 @@
+What is the server operating system?
+{Ubuntu}
+
+What is the application server and version running on the target system?
+{Apache/2.2.22}
+
+What is the exact command that the attacker wants to run on the target server?
+{/bin/ping -c1 10.246.50.2}
